@@ -11,9 +11,9 @@ function App() {
         <h1>Registration Form</h1>
         <p className="this">This is Example Registration Form</p>
             
+            <p className="T">1</p>
             <p className="rectangle24"></p>
             <p className="ellipse"></p>
-            <p className="T">1</p>
             <p className="rectangle25"></p>
       <div><h2>Title of the Form</h2> 
         <p className="line"></p> 
